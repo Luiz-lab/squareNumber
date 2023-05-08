@@ -1,0 +1,11 @@
+{
+  "name": "squarefunction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "l.klixto",
+  "license": "ISC"
+}
